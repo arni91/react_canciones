@@ -1,19 +1,19 @@
-# Titulo
-## Subtitulo
+# Título
+## Subtítulo
 
 - Punto 1
 - Punto 2
-1. Enumeracion 1
-2. Enumeracion 2
+1. Enumeración 1
+2. Enumeración 2
 
 _Cursiva_
 **Negrita**
 
 ```js
-// Codigo
+// Código
 let x = 10;
-funcion function() {
-    //Ejemplo de codigo
+función function() {
+    //Ejemplo de código
 }
 ```
 
